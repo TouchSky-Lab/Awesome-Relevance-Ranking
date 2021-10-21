@@ -6,6 +6,7 @@
 - Relevance ranking metrics for learning objects | 2008 
 - Relevance ranking for geographic IR.
 - Leveraging temporal dynamics of document content in relevance ranking | 2010
+- Ranking and Selecting Synsets by Domain Relevance | 
 
 # Sentence embeddings
 - Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks
