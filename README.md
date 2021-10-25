@@ -1,4 +1,10 @@
-# Relevance-Ranking
+
+# Relevance-Ranking(before NN)
+- Rankboost
+- RankSVM
+
+
+# Relevance-Ranking(before BERT)
 - Relevance ranking for one to three term queries | 2000 | 
 - DeepRank: A New Deep Architecture for Relevance Ranking in Information Retrieval | 2017
 - Deep Relevance Ranking Using Enhanced Document-Query Interactions[[paper](http://nlp.cs.aueb.gr/pubs/emnlp2018.pdf)][[code](https://github.com/nlpaueb/deep-relevance-ranking)]
@@ -8,7 +14,8 @@
 - Leveraging temporal dynamics of document content in relevance ranking | 2010
 - Ranking and Selecting Synsets by Domain Relevance | 
 
-# Sentence embeddings
+
+# Relevance-Ranking(after BERT)
 - Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks
 
 
