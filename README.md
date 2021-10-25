@@ -8,7 +8,7 @@
 
 # Relevance-Ranking(before BERT)
 - Relevance ranking for one to three term queries | 2000 | 
-- DeepRank: A New Deep Architecture for Relevance Ranking in Information Retrieval | 2017
+- DeepRank: A New Deep Architecture for Relevance Ranking in Information Retrieval | 2017 | [[code]()]
 - Deep Relevance Ranking Using Enhanced Document-Query Interactions[[paper](http://nlp.cs.aueb.gr/pubs/emnlp2018.pdf)][[code](https://github.com/nlpaueb/deep-relevance-ranking)]
 - Modeling Relevance Ranking under the Pre-training and Fine-tuning Paradigm | 2021 | 
 - Relevance ranking metrics for learning objects | 2008 
