@@ -1,8 +1,10 @@
 
 # Relevance-Ranking(before NN)
-- Rankboost
-- RankSVM
-
+- RankSVM | Optimizing search engines using clickthrough data. In SIGKDD. 2002 
+- RankBoost | An efficient boosting algorithm for combining preferences. JMLR 2003
+- ListNet  |Learning to rank: from pairwise approach to listwise approach | ICML 2007 |
+- AdaRank | Adarank: a boosting algorithm for information retrieval. In SIGIR 2007 | 
+- LamdaMart | From ranknet to lambdarank to lambdamart: An overview. | 2010 |
 
 # Relevance-Ranking(before BERT)
 - Relevance ranking for one to three term queries | 2000 | 
